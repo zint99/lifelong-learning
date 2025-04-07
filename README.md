@@ -1,4 +1,4 @@
-# lifelone-learning
+# lifelong-learning
 personal note of everything
 
 # Milestones
