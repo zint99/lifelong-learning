@@ -1,5 +1,5 @@
 # lifelong-learning
-personal note of everything
+终身学习记录..
 
 # Milestones
 - 1 commit: Jan 7, 2025
